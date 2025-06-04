@@ -8,7 +8,10 @@
 자바의 데이터 타입 (int , float , double , boolean 등..)</br>
 자바에서의 입력(Scanner), 출력(print)</br>
 
-###
+### 0513
+[자바의 연산자와 제어문 그리고 배열에 대해](https://gold-century-3b0.notion.site/46-JAVA-05-13-10-1f23bfade93280a4b51efd11189b8a05)</br>
+자바에서의 연산자와 제어문 그리고 반복문에 대한 여러가지 예제들<br>
+자바의 배열은 어떤건가에 대한 설명과 예제</br>
 
 ### 0519
 자바의 클래스와 객체 예제
