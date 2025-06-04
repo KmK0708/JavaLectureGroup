@@ -1,5 +1,6 @@
 # JavaLectureGroup
-2025 자바 수업 모음집
+2025 자바 수업 예제 모음집입니다.<br>
+자바에 대한 이해도를 높이는 것을 목표로 합니다.
 
 ### 0507
 [자바개요](https://gold-century-3b0.notion.site/43-JAVA-05-07-9-1ec3bfade93280a9818ac99e6a65fb0e)</br>
